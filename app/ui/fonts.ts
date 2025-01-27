@@ -1,10 +1,7 @@
-import {Style_Script, Rubik_Vinyl} from 'next/font/google';
+import { Inter } from 'next/font/google';
+ 
+export const inter = Inter({ subsets: ['latin'] });
 
-export const styleScript = Style_Script({
-    weight: '400',
-    subset: ["latin"] 
-});
-
-export const rubikVinyl = Rubik_Vinyl({
-    weight: '400' 
-});
+export class lusitana {
+    static className: string | undefined;
+}
