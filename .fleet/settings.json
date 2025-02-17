@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "toolchains": [],
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.javascript.ai"
+        },
+        {
+            "type": "add",
+            "pluginName": "com.github.catppuccin.fleet"
+        },
+        {
+            "type": "add",
+            "pluginName": "izhangzhihao.fleet.rainbow.brackets"
+        }
+    ]
+}
